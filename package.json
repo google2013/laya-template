@@ -1,0 +1,20 @@
+{
+  "name": "laya-template",
+  "version": "0.0.1",
+  "author": "",
+  "dependencies": {},
+  "devDependencies": {
+    "bluebird": "^3.3.5",
+    "browser-sync": "^2.12.5",
+    "cheerio": "^0.20.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-sourcemaps": "^2.0.0-alpha",
+    "gulp-typescript": "^2.13.0",
+    "jquery": "^2.2.3",
+    "ts-loader": "^0.8.2",
+    "typescript": "^1.8.10",
+    "walk": "^2.3.9"
+  },
+  "scripts": {}
+}
